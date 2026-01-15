@@ -18,8 +18,8 @@ import shutil
 
 # === DATOS DE TU API DE TELEGRAM ===
 api_id = 29155882
-api_hash = '68ed562a5ad61b60310765d10812201d'
-phone = '+593988055517'  # Tu número con código de país
+api_hash = ''
+phone = ''  # Tu número con código de país
 
 # Carpeta temporal en Colab (NO usa Drive)
 carpeta_descargas = "/content/TelegramMails"
