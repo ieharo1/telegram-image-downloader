@@ -1,23 +1,31 @@
-# telegram-image-downloader
+# 🖼️ Telegram Image Downloader
 
-Script en Python para **descargar todas las imágenes (fotos)** de grupos y canales de Telegram usando la API oficial mediante `Telethon`.
-
-Ideal para respaldos, análisis de contenido, datasets de imágenes u organización de material multimedia.
+Script en Python para descargar todas las imágenes de grupos y canales de Telegram usando Telethon desarrollado por **Isaac Esteban Haro Torres**.
 
 ---
 
-## 🚀 Características
+## 📝 Descripción
 
-- Descarga imágenes de **todos los grupos y canales**
-- Filtro por **fecha mínima**
-- Organización automática por nombre de grupo/canal
-- Compatible con **Google Colab**
-- No usa Google Drive (más rápido y limpio)
-- Compresión automática en archivo ZIP
-- Descarga directa del ZIP al finalizar
-- Manejo de zonas horarias (UTC)
+Bot para descargar imágenes desde grupos y canales de Telegram.
 
 ---
 
-## 📁 Estructura generada
+## 🛠️ Stack Tecnológico
 
+- Python
+- Telethon
+
+---
+
+## 👨‍💻 Desarrollado por Isaac Esteban Haro Torres
+
+**Ingeniero en Sistemas · Full Stack · Automatización · Data**
+
+- 📧 Email: zackharo1@gmail.com
+- 📱 WhatsApp: 098805517
+- 💻 GitHub: https://github.com/ieharo1
+- 🌐 Portafolio: https://ieharo1.github.io/portafolio-isaac.haro/
+
+---
+
+© 2026 Isaac Esteban Haro Torres - Todos los derechos reservados.
