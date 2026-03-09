@@ -196,12 +196,6 @@ filtros = {
 - `messages.upload_media` - Descargar medios
 - `users.read` - Ver información de usuarios
 
----
-
-## 🤝 Contribuciones
-
-¿Agregaste soporte para otro tipo de medio?
-¡Abre un Pull Request!
 
 ---
 
